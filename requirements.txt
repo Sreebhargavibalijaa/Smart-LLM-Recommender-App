@@ -1,8 +1,8 @@
 streamlit
 langchain
+langchain-openai
+langchain-community
 openai
+torch
 pandas
 numpy
-langchain_openai
-langchain_community
-torch
