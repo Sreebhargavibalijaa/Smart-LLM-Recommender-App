@@ -4,3 +4,4 @@ openai
 pandas
 numpy
 langchain_openai
+langchain_community
